@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="RedChamps_TemporaryAdminAccounts::grid" title="Temporary Users" module="RedChamps_TemporaryAdminAccounts" sortOrder="20" dependsOnModule="RedChamps_TemporaryAdminAccounts" parent="Magento_User::system_acl" action="adminhtml/user/temporary" resource="RedChamps_TemporaryAdminAccounts::grid"/>
+    </menu>
+</config>
