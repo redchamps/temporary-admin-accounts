@@ -3,6 +3,10 @@ It allows creating temporary admin users. You can just specify an expiry date wh
 
 Inspired by tweet https://twitter.com/maxpchadwick/status/1073383718880972800
 
+## Installation
+
+> composer require redchamps/module-temporary-admin-accounts
+
 Contributions are more than welcome :-)
 
 Please visit our store https://redchamps.com for more free/paid extensions from us.
